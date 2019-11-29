@@ -1,0 +1,18 @@
+#map{
+	height: 50vw;
+	width: 100%;
+}
+#add-marker:disabled{
+	cursor: not-allowed;
+}
+.map-wrapper{
+	width: 100%;
+	max-width: 1600px;
+}
+.map-table  td,
+.map-table  th{
+	padding: 0.5rem 0.75rem;
+}
+.remove-button{
+	padding: .15rem .25rem;
+}
